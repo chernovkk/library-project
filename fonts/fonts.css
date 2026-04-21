@@ -1,0 +1,30 @@
+/* jost */
+@font-face {
+  font-display: swap; 
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/jost-v20-cyrillic_latin-regular.woff2') format('woff2'), 
+       url('../fonts/jost-v20-cyrillic_latin-regular.woff') format('woff'); 
+}
+
+/* jura*/
+@font-face {
+  font-display: swap; 
+  font-family: 'Jura';
+  font-style: normal;
+  font-weight: 400;
+  src:url('../fonts/jura-v34-cyrillic_latin-regular.woff2') format('woff2'),
+      url('../fonts/jura-v34-cyrillic_latin-regular.woff') format('woff'); 
+}
+
+/* noto-serif-tc */
+@font-face {
+  font-display: swap; 
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/noto-serif-tc-v36-cyrillic_latin-regular.woff2') format('woff2'), 
+       url('../fonts/noto-serif-tc-v36-cyrillic_latin-regular.woff') format('woff'); 
+       
+}
