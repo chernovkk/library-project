@@ -1,0 +1,9 @@
+# IDE systwm files
+/.idea
+/.vs
+/.vscode
+
+# Python internal
+/venv
+/.venv
+__pycache__/
